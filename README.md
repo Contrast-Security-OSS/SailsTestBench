@@ -1,2 +1,3 @@
 # SailsTestBench
-Intentionally Vulnerable Sails Applications
+
+a [Sails](http://sailsjs.org) application
