@@ -34,6 +34,11 @@ module.exports.routes = {
 
   '/': {
     view: 'homepage'
+  },
+
+  '/quit': function(req, res) {
+      res.send('adieu, cherie');
+      process.exit();
   }
 
   /***************************************************************************
