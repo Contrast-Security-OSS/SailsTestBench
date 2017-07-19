@@ -25,6 +25,7 @@
   },
   "scripts": {
     "debug": "node debug app.js",
+    "contrast": "DEBUG=contrast:* node-contrast app.js",
     "start": "node app.js"
   },
   "main": "app.js",
